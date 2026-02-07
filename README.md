@@ -89,3 +89,4 @@ This beginner-friendly project strengthened my understanding of data preprocessi
 ---
 
 ⭐ If you like this project, feel free to star the repository!
+<img width="1440" height="839" alt="Accuracy rate" src="https://github.com/user-attachments/assets/44153daf-cff2-4a52-8e8e-42f9659fa6db" />
